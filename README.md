@@ -8,14 +8,13 @@
 
 <h2>🎯 Goals for 2025</h2>
 <br></br>
-##
 
 - 🏆 Master full-stack development
 <br></br>
-#
+
 - 🌍 Collaborate on open-source & startup ideas.
 <br></br>
-#
+
 - 📚 Keep learning & building!
 <br></br>
 
@@ -26,8 +25,8 @@
 ###
 
 <div align="left">
- <a href="https://x.com/home" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a><br></br>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a><br></br>
+ <a href="https://x.com/home" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://canary.discord.com/channels/@me" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
 </div>
 
