@@ -8,13 +8,10 @@
 
 <h2>🎯 Goals for 2025</h2>
 <br></br>
-
 - 🏆 Master full-stack development
 <br></br>
-
 - 🌍 Collaborate on open-source & startup ideas.
 <br></br>
-
 - 📚 Keep learning & building!
 <br></br>
 
