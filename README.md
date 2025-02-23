@@ -4,9 +4,16 @@
 
 <h3 align="center">An Indian software developer with a passion for problem-solving</h3>
 
+##
+
+<h2>🎯 Goals for 2025</h2>
+- 🏆 Master full-stack development
+- 🌍 Collaborate on open-source & startup ideas.
+- 📚 Keep learning & building!
+
 ###
 
-<h2 align="left">Connect With me !</h2>
+<h2 align="left">🔗Connect With me:</h2>
 
 ###
 
@@ -18,7 +25,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
@@ -74,13 +81,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-techvoyager&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=imran-techvoyager&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/imran-techvoyager/imran-techvoyager/output/snake.svg" alt="Snake animation" /> -->
@@ -92,3 +92,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imran-techvoyager/imran-techvoyager/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/imran-techvoyager/imran-techvoyager/output/github-snake.svg" />
 </picture>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imran-techvoyager&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=imran-techvoyager&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
