@@ -16,6 +16,8 @@
 <br></br>
 - 📚 Keep learning & building!
 <br></br>
+- ⚡ Fun Fact: I turn caffeine into code and bugs into “features.”
+<br></br>
 
 ###
 
