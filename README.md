@@ -8,15 +8,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-techvoyager&label=Profile%20views&color=0e75b6&style=flat" alt="imran-techvoyager" /> </p>
 
-- 👨‍💻 All of my projects are available at https://imran-tech.xyz
+- 👨‍💻 All of my projects are available at: https://imran-tech.xyz
 <br></br>
-- 🏆 Get started with WEB3  
+- 🧠 Currently Exploring: Application development and WEB3
 <br></br>
-- 🌍 Master full-stack development Collaborate on open-source & startup ideas.
+- 📫 How to reach me imran.techvoyager@gmail.com
 <br></br>
-- 📚 Keep learning & building!
+- 🤝 Let’s Build Together:  
+  I'm always up for collaborating on tools, dev infra, or ideas that push the web forward.
 <br></br>
-- ⚡ Fun Fact: I turn caffeine into code and bugs into “features.”
+- 💬 Ask me about:
+   JavaScript , TypeScript , React , NextJS , NodeJs , MongoDB , SQL
+<br></br>
+- ⚡ Fun Fact:
+   I turn caffeine into code and bugs into “features.”
 <br></br>
 
 ###
