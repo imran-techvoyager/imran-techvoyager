@@ -18,7 +18,7 @@
   I'm always up for collaborating on tools, dev infra, or ideas that push the web forward.
 <br></br>
 - 💬 Ask me about:
-   JavaScript , TypeScript , React , NextJS , NodeJs , MongoDB , SQL
+   JavaScript, TypeScript, Python, React , NextJS , NodeJs, Djongo, MongoDB , SQL
 <br></br>
 - ⚡ Fun Fact:
    I turn caffeine into code and bugs into “features.”
