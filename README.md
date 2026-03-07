@@ -17,7 +17,7 @@
 - 🤝 Let’s Build Together:  
   I'm always up for collaborating on tools, dev infra, or ideas that push the web forward.
 <br></br>
-- 💬 Ask me about:
+- 💬 let's discuss about:
    JavaScript, TypeScript, Python, React , NextJS , NodeJs, Djongo, MongoDB , SQL
 <br></br>
 - ⚡ Fun Fact:
