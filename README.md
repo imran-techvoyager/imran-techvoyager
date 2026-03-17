@@ -12,7 +12,7 @@
 <br></br>
 - 🧠 Currently Exploring: Application development and WEB3
 <br></br>
-- 📫 How to reach me imran.techvoyager@gmail.com
+- 📫 reach me at imran.techvoyager@gmail.com
 <br></br>
 - 🤝 Let’s Build Together:  
   I'm always up for collaborating on tools, dev infra, or ideas that push the web forward.
